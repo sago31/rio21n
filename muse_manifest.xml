@@ -1,26 +1,28 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="21nrio.com" resolutions="1x" timestamp="1574520431220">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="21nrio.com" resolutions="1x" timestamp="1574522707159">
   <folder name="css">
     <file name="site_global.css" crc="388303638"/>
-    <file name="master_a-p_g_-maestra.css" crc="372231545" ref="index"/>
+    <file name="master_a-p_g_-maestra.css" crc="372231545" ref="index:inicio---copia"/>
     <file name="index.css" crc="139488487" ref="index"/>
-    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3824530138" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3824530138" ref="index:inicio---copia"/>
     <file name="nomq_index.css" crc="195367726" ref="index"/>
+    <file name="inicio---copia.css" crc="24877181" ref="inicio---copia"/>
+    <file name="nomq_inicio---copia.css" crc="4070700522" ref="inicio---copia"/>
   </folder>
   <folder name="assets">
     <file name="24h-magdalena_01.mp3" crc="4163403900" seo="true" mt="1574518037000"/>
     <file name="24h-magdalena_01.ogg" crc="89715382" seo="true" mt="1574518101000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:inicio---copia"/>
+    <file name="museutils.js" crc="340535759" ref="index:inicio---copia"/>
+    <file name="whatinput.js" crc="86476730" ref="index:inicio---copia"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:inicio---copia"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:inicio---copia"/>
+    <file name="require.js" crc="7928878" ref="index:inicio---copia"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:inicio---copia"/>
   </folder>
   <folder name="images">
-    <file name="sin-título-1-02.svg" crc="3948710502" seo="true" ref="index">
+    <file name="sin-título-1-02.svg" crc="3948710502" seo="true" ref="index:inicio---copia">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -28,9 +30,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
+      <caption webpage="inicio---copia" alt=""/>
     </file>
-    <file name="sin título-1-02_poster_.png" crc="55940740" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="sin título-1-02_poster_.png" crc="55940740" ref="index:inicio---copia"/>
+    <file name="blank.gif" crc="4208392903" ref="index:inicio---copia"/>
   </folder>
   <file name="index.html" crc="3848289167" seo="true" mt="1574520418904" redirect="true"/>
+  <file name="inicio---copia.html" crc="4098887201" seo="true" mt="1574522671204" redirect="true"/>
 </manifest>

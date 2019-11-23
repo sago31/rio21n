@@ -10,13 +10,22 @@
     </image:image>
   </url>
   <url>
-    <loc>http://21nrio.com/assets/24h-magdalena_01.mp3</loc>
+    <loc>http://21nrio.com/inicio---copia.html</loc>
+    <lastmod>2019-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://21nrio.com/images/sin-t%C3%ADtulo-1-02.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://21nrio.com/assets/24h-magdalena_01.ogg</loc>
     <lastmod>2019-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://21nrio.com/assets/24h-magdalena_01.ogg</loc>
+    <loc>http://21nrio.com/assets/24h-magdalena_01.mp3</loc>
     <lastmod>2019-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
