@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="21nrio.com" resolutions="1x" timestamp="1574523616460">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="21nrio.com" resolutions="1x" timestamp="1574604306956">
   <folder name="css">
     <file name="site_global.css" crc="388303638"/>
     <file name="master_a-p_g_-maestra.css" crc="372231545" ref="index:inicio---copia"/>
-    <file name="index.css" crc="4177290806" ref="index"/>
+    <file name="index.css" crc="4047488588" ref="index"/>
     <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3824530138" ref="index:inicio---copia"/>
     <file name="nomq_index.css" crc="3942167885" ref="index"/>
     <file name="inicio---copia.css" crc="24877181" ref="inicio---copia"/>
@@ -41,6 +41,6 @@
     <file name="sin título-1-02_poster_.png" crc="55940740" ref="index:inicio---copia"/>
     <file name="blank.gif" crc="4208392903" ref="index:inicio---copia"/>
   </folder>
-  <file name="index.html" crc="4043284829" seo="true" mt="1574523598456" redirect="true"/>
+  <file name="index.html" crc="430827717" seo="true" mt="1574604259323" redirect="true"/>
   <file name="inicio---copia.html" crc="4098887201" seo="true" mt="1574522671204" redirect="true"/>
 </manifest>
