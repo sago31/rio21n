@@ -1,9 +1,9 @@
 body {
-background: linear-gradient(-45deg, #00CCFF, #3cd4e7, #23D5AB, #23A6D5);
+background: linear-gradient(-45deg, #00CCFF, #3cd4e7, #4400ff, #23A6D5);
 	background-size: 800% 800%;
-	-webkit-animation: Gradient 3s ease infinite;
-	-moz-animation: Gradient 3s ease infinite;
-	animation: Gradient 3s ease infinite;
+	-webkit-animation: Gradient 5s ease infinite;
+	-moz-animation: Gradient 5s ease infinite;
+	animation: Gradient 5s ease infinite;
 
 
 }
